@@ -1,0 +1,4 @@
+// Ignoring the .env file to protect credentials
+*.env 
+
+/node_modules
